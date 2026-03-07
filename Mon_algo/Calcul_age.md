@@ -1,5 +1,6 @@
-# algoritme calcul_age
-```text Algorithme calcul_age
+
+```text
+  Algorithme calcul_age
 
 Variable
   Var a :entier
