@@ -1,4 +1,5 @@
-Algorithme prix_total
+```text
+ Algorithme prix_total
 
 Variable
   Var a:reel 
