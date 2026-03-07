@@ -1,4 +1,5 @@
-''' Algorithme distance_de_pas
+```text
+ Algorithme distance_de_pas
 
 Variable
   Var a:entier
@@ -12,4 +13,4 @@ Début
   Afficher("vous avez fait ", b," mètre ");
   Afficher("ou ",d," kilomètres ")
 Fin
-'':
+
