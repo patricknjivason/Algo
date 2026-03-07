@@ -1,0 +1,1 @@
+{"name":"calcul_age","content":"Algorithme calcul_age\n\nVariable\n  Var a :entier\n  Var age:entier\nDébut\n  Ecrire (\"entrer l année de votre naissance\");\n  Lire(a);\n  age<-(2026-a)\n  Afficher(\"vous avez \", age, \" ans\")\nFin\n  ","description":"Nouvel algorithme","creationDate":"2026-03-07T08:13:12.401813","lastModifiedDate":"2026-03-07T09:14:54.072168"}
