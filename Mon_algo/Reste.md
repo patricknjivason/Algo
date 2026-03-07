@@ -1,4 +1,5 @@
-Algorithme reste
+```text
+  Algorithme reste
 
 Variable
   Var a:entier
