@@ -1,3 +1,4 @@
+```text
 Algorithme calcul_simple
 
 Variable
