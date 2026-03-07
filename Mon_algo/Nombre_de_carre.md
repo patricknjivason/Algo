@@ -1,3 +1,4 @@
+```text
 Algorithme nombre_de_carre
 
 Variable
