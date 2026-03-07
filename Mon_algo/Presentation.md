@@ -1,3 +1,4 @@
+```text
 Algorithme presentation
 
 Variable
