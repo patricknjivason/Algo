@@ -1,4 +1,4 @@
-Algorithme calcul_age
+''' Algorithme calcul_age
 
 Variable
   Var a :entier
@@ -9,3 +9,4 @@ Début
   age<-(2026-a)
   Afficher("vous avez ", age, " ans")
 Fin
+'''
